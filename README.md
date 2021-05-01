@@ -1,6 +1,6 @@
 # Rechenbeispiele
 
-Dieses Repository umfasst die Rechenbeispiele zum Lehrbuch *Chemische Reaktionstechnik* von *Prof. Dr.-Ing Robert Güttel* und *Prof. Dr.-Ing. Thomas Turek*.
+Dieses Repository umfasst die Rechenbeispiele zum Lehrbuch [*Chemische Reaktionstechnik*](https://www.springer.com/de/book/9783662631492) von *Prof. Dr.-Ing Robert Güttel* und *Prof. Dr.-Ing. Thomas Turek*.
 
 ## Binder
 
