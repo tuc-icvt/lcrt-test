@@ -1,0 +1,12 @@
+name: lcrt-test
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - pip
+  - pip:
+    - gekko
